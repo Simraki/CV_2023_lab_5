@@ -45,7 +45,8 @@ Test Pixel Accuracy = 0.75
 ![metrics_img](https://github.com/Simraki/CV_2023_lab_5/blob/master/images/plots.png)
 
 Результаты на тестовой выборке:
-Test IoU = 0.448
-Test DICE Mean = 0.385
-Test Channel IoU = [0.94, 0.28, 0.06, 0.45, 0.11, 0.69, 0.55, 0.51]
-Test Pixel Accuracy = 0.737
+
+- Test IoU = 0.448
+- Test DICE Mean = 0.385
+- Test Channel IoU = [0.94, 0.28, 0.06, 0.45, 0.11, 0.69, 0.55, 0.51]
+- Test Pixel Accuracy = 0.737
