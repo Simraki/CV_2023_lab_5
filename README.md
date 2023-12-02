@@ -38,11 +38,11 @@ Test Pixel Accuracy = 0.75
 Модель DeepLabV3 с ResNet в качестве енкодера, оптимизатор - SGD, lоss - CrossEntropy, batch_size = 16, количество эпох - 20
 
 Пример работы на изображении:
-![example_img](https://github.com/Simraki/CV_2023_lab_5/blob/main/images/example_res.png)
+![example_img](https://github.com/Simraki/CV_2023_lab_5/blob/master/images/example_res.png)
   
 
 График метрик на изображении:
-![example_img](https://github.com/Simraki/CV_2023_lab_5/blob/main/images/plots.png)
+![metrics_img](https://github.com/Simraki/CV_2023_lab_5/blob/master/images/plots.png)
 
 Результаты на тестовой выборке:
 Test IoU = 0.448
